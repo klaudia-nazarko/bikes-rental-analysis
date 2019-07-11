@@ -1,4 +1,4 @@
 # Bikes Rental Analysis
 
-![](C:\Users\Klaudia\Documents\git\bikes-rental-analysis\img\header-img.jpg)
+![](https://github.com/klaudia-nazarko/bikes-rental-analysis/blob/master/img/header-img.jpg)
 
