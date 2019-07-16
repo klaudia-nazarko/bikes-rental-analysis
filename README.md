@@ -23,7 +23,3 @@ Before starting to work with data, it's always good to get to know them better. 
 Already knowing which features impact cyclists' decisions, the goal of this task was to predict number of bike rentals on a given day. [Regression model directory](https://github.com/klaudia-nazarko/bikes-rental-analysis/tree/master/3.%20regression%20model) contains preparing predictors and obtaining new data (eg. from Google Trends). In the next step, simple regression models were built as a baseline. The last notebook focuses on building top-performing model by feature engineering and hyperparameters tuning.
 
 
-
-
-
-*Powered by Klaudia - In 💙 with data*
